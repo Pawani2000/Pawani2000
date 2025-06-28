@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pawani Nimasha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=5s0&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Tech+Enthusiast;Open+to+Collaborations;Let's+Learn+and+Build+Together!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=30s0&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Tech+Enthusiast;Open+to+Collaborations;Let's+Learn+and+Build+Together!">
 </p>
 
 <p align="left"> 

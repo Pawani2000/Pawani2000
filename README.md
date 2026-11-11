@@ -1,67 +1,184 @@
-<h1 align="center">Hi 👋, I'm Pawani Nimasha</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=25&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Tech+Enthusiast;Open+to+Collaborations;Let's+Learn+and+Build+Together!">
-</p>
+<!-- ================================================== -->
+<!--                 PAWANI NIMASHA                     -->
+<!--                  PROFILE README                    -->
+<!-- ================================================== -->
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=pawani2000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  <img src="https://img.shields.io/github/followers/pawani2000?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+<div align="center">
 
-- 🌱 I’m currently learning **Java** and **Python**  
-- 👩‍💻 All my projects are available [here](https://github.com/pawani2000?tab=repositories)  
-- 📫 How to reach me: **nimashapawani2000@gmail.com**  
-- 💡 Fun fact: **Call me Nima**  
-- 🎯 Goals: Continuously enhance my skills and contribute to impactful projects!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Pawani%20Nimasha&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=17&descAlignY=60&animation=fadeIn" />
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Software+Developer+%40+SLT;Software+Engineer+%40+LoopLab+Pvt+Ltd;Full+Stack+Web+Developer;Building+Scalable+Software+Solutions;Code.+Create.+Innovate.+Repeat." />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/pawani-nimasha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://fb.com/pawani.nimasha" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="mailto:nimashapawani2000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Pawani2000&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Pawani2000?label=FOLLOWERS&style=for-the-badge&color=203A43" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/pawani-nimasha/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Pawani2000">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
-</p>
+## 👩‍💻 About Me
+
+Hello! I'm **Pawani Nimasha**, a Software Developer passionate about building innovative applications, developing efficient backend systems, and creating technology-driven solutions.
+
+- 💼 Software Developer at **Sri Lanka Telecom PLC (SLT)**
+- 🚀 Software Engineer at **LoopLab Pvt Ltd**
+- 🎓 BSc (Hons) in Information Technology
+- 💻 Passionate about Full-Stack Development
+- ⚙️ Experienced in REST API Development and Business Logic
+- 🗄️ Interested in Database Design and System Development
+- 🌱 Continuously learning and exploring new technologies
+
+**My goal:** To transform ideas into impactful software solutions.
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawani2000&show_icons=true&theme=radical" alt="Pawani Nimasha's GitHub Stats">
-</p>
+## 💼 Professional Experience
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawani2000&theme=radical" alt="GitHub Streak Stats">
-</p>
+<div align="center">
+
+<table>
+<tr>
+<th>Organization</th>
+<th>Position</th>
+</tr>
+<tr>
+<td>🏢 Sri Lanka Telecom PLC</td>
+<td>Software Developer</td>
+</tr>
+<tr>
+<td>🚀 LoopLab Pvt Ltd</td>
+<td>Software Engineer</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
+## ⚡ Technologies & Tools
 
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap" />
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=django,fastapi" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,oracle" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,postman" />
+
+</div>
+
+---
+
+## 🧩 Areas of Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+**🌐 Frontend Development**
+
+- React.js
+- JavaScript
+- HTML5 & CSS3
+- Responsive Interfaces
+
+</td>
+<td width="50%">
+
+**⚙️ Backend Development**
+
+- Python
+- Django & DRF
+- FastAPI
+- REST API Development
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🗄️ Database Development**
+
+- PostgreSQL
+- Oracle
+- SQL
+- Database Management
+
+</td>
+<td width="50%">
+
+**🚀 Software Engineering**
+
+- Business Logic
+- System Integration
+- Application Development
+- Problem Solving
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Metrics Dashboard
+
+<div align="center">
+
+<img src="./github-metrics.svg" width="100%" alt="GitHub Metrics Dashboard"/>
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pawani-nimasha/">
+<img src="https://img.shields.io/badge/LinkedIn-Pawani%20Nimasha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Pawani2000">
+<img src="https://img.shields.io/badge/GitHub-Pawani2000-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 💫 Code. Create. Innovate. Inspire.
+
+*Thanks for visiting my GitHub profile!*
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>

@@ -39,7 +39,7 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 
 <img src="./title-tech.svg" height="40" alt="Tech Stack & Tools" />
 
-<br/><br/>
+<br/>
 
 <sub><b>LANGUAGES</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=python,js,java,html,css&theme=dark" /><br/><br/>
@@ -59,7 +59,7 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 
 <img src="./title-connect.svg" height="40" alt="Connect With Me" />
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/pawani-nimasha/"><img width="100%" src="https://img.shields.io/badge/LinkedIn-%E2%86%92-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br/>
 <a href="https://github.com/Pawani2000"><img width="100%" src="https://img.shields.io/badge/GitHub-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white"/></a><br/>

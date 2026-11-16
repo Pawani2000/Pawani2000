@@ -48,7 +48,7 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 <sub><b>BACKEND</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs&theme=dark" /><br/><br/>
 <sub><b>DATABASES</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=postgres,oracle,mongodb&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,mongodb&theme=dark" /><br/><br/>
 <sub><b>TOOLS & OTHERS</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bitbucket&theme=dark" />
 

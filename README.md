@@ -48,7 +48,7 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 <sub><b>BACKEND</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs&theme=dark" /><br/><br/>
 <sub><b>DATABASES</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,mongodb&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,oracle,mongodb&theme=dark" /><br/><br/>
 <sub><b>TOOLS & OTHERS</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bitbucket&theme=dark" />
 
@@ -91,7 +91,7 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 <!-- ================= LANGUAGES ================= -->
 <td width="35%" valign="top" align="center">
 
-<img src="./assets/title-langs.svg" height="40" alt="Most Used Languages" />
+<img src="./title-langs.svg" height="40" alt="Most Used Languages" />
 
 <br/>
 
@@ -102,7 +102,7 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 <!-- ================= STREAK ================= -->
 <td width="35%" valign="top" align="center">
 
-<img src="./assets/title-streak.svg" height="40" alt="Contribution Streak" />
+<img src="./title-streak.svg" height="40" alt="Contribution Streak" />
 
 <br/>
 
@@ -118,6 +118,6 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 
 <br/><br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Building Today. Innovating Tomorrow." />
+<img src="./footer.svg" width="100%" alt="Building Today. Innovating Tomorrow." />
 
 </div>

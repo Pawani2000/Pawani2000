@@ -118,6 +118,6 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 
 <br/><br/>
 
-<img src="./footer.svg" width="100%" alt="Building Today. Innovating Tomorrow." />
+<img src="./footer.svg" width="100%" alt="A dark purple and blue banner with a glowing set of vertical bars on the right and the words Building Today. Innovating Tomorrow. in elegant serif text. The banner also includes a call to action reading Let us Build Something Amazing Together. The overall mood is creative, energetic, and forward-looking, with a modern digital design aesthetic." />
 
 </div>

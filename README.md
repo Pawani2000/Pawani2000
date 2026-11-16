@@ -80,7 +80,7 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 
 <img src="./title-stats.svg" height="40" alt="GitHub Stats" />
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/github/followers/Pawani2000?label=Followers&style=for-the-badge&logo=github&color=6D28D9&labelColor=1E1B4B" /><br/>
 <img src="https://img.shields.io/github/stars/Pawani2000?label=Stars&style=for-the-badge&logo=github&color=6D28D9&labelColor=1E1B4B" /><br/>
@@ -95,8 +95,7 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawani2000&layout=donut-vertical&hide_title=true&hide_border=true&bg_color=00000000&text_color=E5E7EB&langs_count=5" width="100%" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawani2000&layout=compact&theme=transparent&title_color=A78BFA&text_color=E5E7EB&hide_title=true&hide_border=true&langs_count=5" width="100%" />
 </td>
 
 <!-- ================= STREAK ================= -->

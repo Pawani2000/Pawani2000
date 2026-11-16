@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./hero.svg" width="100%" alt="Pawani Nimasha · Software Engineer | Full-Stack Developer" />
+<img src="./assets/hero.svg" width="100%" alt="Pawani Nimasha · Software Engineer | Full-Stack Developer" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Turning+Ideas+Into+Digital+Solutions;Software+Engineer+%40+LoopLab+Pvt+Ltd;Software+Developer+%40+Sri+Lanka+Telecom;Full-Stack+%C2%B7+REST+APIs+%C2%B7+Databases" alt="typing" />
 
@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=Pawani2000&label=VIEWS&color=7C3AED&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/Pawani2000?label=FOLLOWERS&style=for-the-badge&logo=github&color=4C1D95&labelColor=1E1B4B" />
 
-<img src="./divider.svg" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 </div>
 
@@ -20,7 +20,7 @@
 <!-- ================= ABOUT ================= -->
 <td width="30%" valign="top">
 
-<img src="./title-about.svg" height="40" alt="About Me" />
+<img src="./assets/title-about.svg" height="40" alt="About Me" />
 
 <br/>
 
@@ -37,9 +37,9 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 <!-- ================= TECH ================= -->
 <td width="44%" valign="top" align="center">
 
-<img src="./title-tech.svg" height="40" alt="Tech Stack & Tools" />
+<img src="./assets/title-tech.svg" height="40" alt="Tech Stack & Tools" />
 
-<br/>
+<br/><br/>
 
 <sub><b>LANGUAGES</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=python,js,java,html,css&theme=dark" /><br/><br/>
@@ -48,7 +48,7 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 <sub><b>BACKEND</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs&theme=dark" /><br/><br/>
 <sub><b>DATABASES</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,mongodb&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,oracle,mongodb&theme=dark" /><br/><br/>
 <sub><b>TOOLS & OTHERS</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bitbucket&theme=dark" />
 
@@ -57,9 +57,9 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 <!-- ================= CONNECT ================= -->
 <td width="26%" valign="top" align="center">
 
-<img src="./title-connect.svg" height="40" alt="Connect With Me" />
+<img src="./assets/title-connect.svg" height="40" alt="Connect With Me" />
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/pawani-nimasha/"><img width="100%" src="https://img.shields.io/badge/LinkedIn-%E2%86%92-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br/>
 <a href="https://github.com/Pawani2000"><img width="100%" src="https://img.shields.io/badge/GitHub-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white"/></a><br/>
@@ -70,7 +70,7 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 </tr>
 </table>
 
-<div align="center"><img src="./divider.svg" width="100%" /></div>
+<div align="center"><img src="./assets/divider.svg" width="100%" /></div>
 
 <table>
 <tr>
@@ -78,9 +78,9 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 <!-- ================= STATS ================= -->
 <td width="30%" valign="top" align="center">
 
-<img src="./title-stats.svg" height="40" alt="GitHub Stats" />
+<img src="./assets/title-stats.svg" height="40" alt="GitHub Stats" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/github/followers/Pawani2000?label=Followers&style=for-the-badge&logo=github&color=6D28D9&labelColor=1E1B4B" /><br/>
 <img src="https://img.shields.io/github/stars/Pawani2000?label=Stars&style=for-the-badge&logo=github&color=6D28D9&labelColor=1E1B4B" /><br/>
@@ -91,17 +91,18 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 <!-- ================= LANGUAGES ================= -->
 <td width="35%" valign="top" align="center">
 
-<img src="./title-langs.svg" height="40" alt="Most Used Languages" />
+<img src="./assets/title-langs.svg" height="40" alt="Languages I Use" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawani2000&layout=compact&theme=transparent&title_color=A78BFA&text_color=E5E7EB&hide_title=true&hide_border=true&langs_count=5" width="100%" />
+<img src="./assets/languages.svg" width="100%" alt="Languages chart" />
+
 </td>
 
 <!-- ================= STREAK ================= -->
 <td width="35%" valign="top" align="center">
 
-<img src="./title-streak.svg" height="40" alt="Contribution Streak" />
+<img src="./assets/title-streak.svg" height="40" alt="Contribution Streak" />
 
 <br/>
 
@@ -117,6 +118,6 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 
 <br/><br/>
 
-<img src="./footer.svg" width="100%" alt="A dark purple and blue banner with a glowing set of vertical bars on the right and the words Building Today. Innovating Tomorrow. in elegant serif text. The banner also includes a call to action reading Let us Build Something Amazing Together. The overall mood is creative, energetic, and forward-looking, with a modern digital design aesthetic." />
+<img src="./assets/footer.svg" width="100%" alt="Building Today. Innovating Tomorrow." />
 
 </div>

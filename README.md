@@ -95,7 +95,7 @@ I'm a passionate Software Engineer who builds **scalable web applications**. I l
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawani2000&layout=compact&theme=transparent&title_color=A78BFA&text_color=E5E7EB&hide_title=true&hide_border=true&langs_count=5" width="100%" alt="A compact GitHub language usage chart showing five programming languages in colored horizontal bars on a transparent background. The layout is clean and modern, with a professional neutral tone and no surrounding environment beyond the dashboard style graphic." />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawani2000&layout=compact&theme=transparent&title_color=A78BFA&text_color=E5E7EB&hide_title=true&hide_border=true&langs_count=5" width="100%" alt="A compact GitHub language usage chart showing five programming languages in colored horizontal bars on a transparent background. The layout is clean and modern, with a professional neutral tone and no surrounding environment beyond the dashboard style graphic." /> -->
 </td>
 
 <!-- ================= STREAK ================= -->
